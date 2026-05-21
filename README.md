@@ -1,7 +1,7 @@
 ````markdown
 ## Deployment Trade-off Frontier
 
-![Deployment Frontier](deployment_tradeoff_frontier.png)
+![Deployment Frontier](images/deployment_tradeoff_frontier.png)
 
 # Fundus Image Classification and Referable Diabetic Retinopathy Detection
 
