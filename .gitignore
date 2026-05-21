@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints and cache
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.pytest_cache/
+.pdm-cache/
+
+# IPynb output formatting data (keeps notebooks clean)
+.local/share/jupyter
+
+# VS Code specific files
+.vscode/
+
+# Environment variables and secrets (API keys, passwords)
+.env
+.env.local
+*.secret
+
+# Data and large files (recommended for Jupyter workflows)
+data/
+*.csv
+*.json
+*.xlsx
+*.pickle
+*.pkl
+
+.tflite/
+# Corrected format extensions (Must have the asterisk *)
+*.jpg
+*.jpeg
+*.pdf
+*.png
+*.pptx
+*.docx
+*.dmg
+*.txt
+
+# Corrected folder names with exact dashes/underscores
+ultra-widefield_images/
+ultra widefield_images/
+
+# Remove folders that may contain large files or outputs
+flowchart/
+Model Weights/
+RDR Training/
+regular_fundus_images/
+Zeiss Dataset/
+tflite_models/
+ultra widefield_images/
+
+
+
+
