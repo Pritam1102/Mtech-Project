@@ -203,7 +203,6 @@ The project includes:
 
 # Thesis Documents
 
-* `Final_Thesis_Pritam.pdf`
 * `Thesis Pritam.pdf`
 
 These documents contain:
