@@ -1,15 +1,9 @@
-````markdown
-## Deployment Trade-off Frontier
 
-![Deployment Frontier](./images/deployment_tradeoff_frontier.png)
-
-# Fundus Image Classification and Referable Diabetic Retinopathy Detection
+Fundus Image Classification and Referable Diabetic Retinopathy Detection
 
 This repository contains the implementation, experiments, and deployment pipeline for deep learning-based referable diabetic retinopathy (RDR) detection from retinal fundus images, including ultra-widefield (UWF) imaging experiments, federated learning, quantization, and mobile deployment analysis.
 
 The project was developed as part of an MTech thesis focused on deployment-aware retinal disease screening using lightweight and high-performance convolutional neural networks.
-
----
 
 # Features
 
@@ -32,8 +26,6 @@ The project was developed as part of an MTech thesis focused on deployment-aware
 ---
 
 # Repository Structure
-
-```text
 .
 ├── trainer.py
 ├── utils.py
